@@ -1,1 +1,9 @@
 .idea/
+EK/elasticsearch-6.4.0/
+EK/kibana-6.4.0-darwin-x86_64/
+EK/kibana/
+elkbase/dependent_resources/
+elkbase/tools/
+*.tar.gz
+*.tar
+**.DS_Store
